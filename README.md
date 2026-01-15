@@ -25,7 +25,7 @@ python -m venv .venv
 pip install -r requirements.txt
 ```
 
-- python app.py   run command in cmd
+- `python app.py`   run command in cmd
 
 Use this `http://127.0.0.1:5000/predict_api` link to post data
 
