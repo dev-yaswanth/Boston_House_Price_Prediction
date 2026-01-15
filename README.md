@@ -31,3 +31,6 @@ Use this `http://127.0.0.1:5000/predict_api` link to post data
 
 `{"data":  {"CRIM": 0.1, "ZN": 12.5, "INDUS": 7.0, "CHAS": 0, "NOX": 0.4, "RM": 6.2, "AGE": 45.0, "DIS": 4.5, "RAD": 1, "TAX": 250.0, "PTRATIO": 16.0, "B": 390.0, "LSTAT": 5.0}
 }`
+
+### Cloud deployment
+- Procfile: it specifies some commands that needs to be executed as soon as it starts. Commands Heroku  that on application startup what commands needs to run.
